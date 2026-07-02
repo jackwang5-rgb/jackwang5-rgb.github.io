@@ -3,4 +3,4 @@ User-agent: *
 Allow: /Using-Huo-Jian-Hua-s-Definition-of-Boundedness/
 
 # Point search crawlers directly to your absolute XML sitemap path
-Sitemap: https://github.io
+Sitemap: https://jackwang5-rgb.github.io/sitemap.xml
