@@ -6,8 +6,7 @@
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-  </url>
-  
+  </url>  
   <!-- Background & Abstract Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/ZnBackgroundAndAbstract.pdf</loc>
@@ -15,7 +14,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 1 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/ProveThatInfinityIsNotInfinity.pdf</loc>
@@ -23,7 +21,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 2 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/DefinitionOfExistence.pdf</loc>
@@ -31,7 +28,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 3 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/ProofsForTheExistenceOfTheNaturalNumbers.pdf</loc>
@@ -39,7 +35,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 4 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/ProofsOnTheRealNumbers.pdf</loc>
@@ -47,7 +42,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 5 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/Prove_and_verify_that_infinity_is_not_x.pdf</loc>
@@ -55,7 +49,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 6 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/ASummaryOfUnbounded.pdf</loc>
@@ -63,7 +56,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 7 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/SupportingProofsForTheEmpty.pdf</loc>
@@ -71,7 +63,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 8 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/OffThePaperSolvingAnInfinityParadox.pdf</loc>
@@ -79,7 +70,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 9 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/ReflexivityOfInfinityAndNotNotNotEffects.pdf</loc>
@@ -87,7 +77,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 10 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/SizeOfInfinity.pdf</loc>
@@ -95,15 +84,20 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Chapter 11 Document -->
+  <url>
+    <loc>https://jackwang5-rgb.github.io/ToBreathTheAirGoogleDocs.pdf</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Chapter 12 Document -->
   <url>
     <loc>https://jackwang5-rgb.github.io/Note.pdf</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <!-- Wrap-up Poem Document (詙) -->
   <url>
     <loc>https://jackwang5-rgb.github.io/WrapUpPoemZn.pdf</loc>
