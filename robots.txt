@@ -1,0 +1,6 @@
+# Allow all search engine bots to crawl the repository
+User-agent: *
+Allow: /Using-Huo-Jian-Hua-s-Definition-of-Boundedness/
+
+# Point search crawlers directly to your absolute XML sitemap path
+Sitemap: https://github.io
