@@ -1,6 +1,4 @@
-# Allow all search engine bots to crawl the repository
 User-agent: *
 Allow: /
 
-# Point search crawlers directly to your absolute XML sitemap path
 Sitemap: https://jackwang5-rgb.github.io/sitemap.xml
